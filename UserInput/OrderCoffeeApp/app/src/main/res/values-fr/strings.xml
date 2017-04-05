@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Juste Java</string>
+    <string name="chocolate">Choclat</string>
+    <string name="initial_quantity_value">2</string>
+    <string name="name">Nom</string>
+    <string name="order">Commande</string>
+    <string name="order_summary_chocolate">Ajouter chocolate($2)? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="quantity">Quantité</string>
+    <string name="thank_you">Merci</string>
+    <string name="toppings">Garnitures</string>
+    <string name="whipped_cream">Creme Chantilly</string>
+    <string name="order_summary_name">Nom: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_quantity">Quantité: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_whipped_cream">Ajouter cremé Chantilly($1)? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+</resources>
